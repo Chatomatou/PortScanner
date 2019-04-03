@@ -1,6 +1,6 @@
 # PortScanner
-Scan les port ouvert sur un interval donné entre [a; b] selon une adresse ip donner.
-
+Scan les port ouvert sur un interval donné entre [a;b] selon une adresse ip donner.
+Scan the port open in the included interval [a;b] in function a ip address.
 # How To Use 
 Follow the instruction 
 
